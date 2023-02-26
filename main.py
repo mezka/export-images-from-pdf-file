@@ -1,0 +1,3 @@
+from extract_images_from_pdf_file import extract_images_from_pdf_file
+
+extract_images_from_pdf_file('./sample_files/2000005044986390.pdf')
